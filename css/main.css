@@ -49,3 +49,9 @@ ul.posts li {
 .topic {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+p.urllink {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    font-style: italic;
+}
