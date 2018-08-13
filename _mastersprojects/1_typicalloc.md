@@ -18,4 +18,4 @@ This project is about exploring ways to enhance typical location
 prediction through machine learning techniques (e.g. deep learning,
 reinforcement learning, etc) by adding image data to textual data and
 is part of an international collaboration with Prof. Vera Demberg at
-Saarland University.
+Saarland University, Germany.
