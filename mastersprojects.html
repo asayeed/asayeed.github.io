@@ -3,9 +3,12 @@ layout: default
 title: Possible Master's projects with Asad Sayeed
 ---
 <div class="blurb">
-	<h1>Possible Master's projects</h1>
-	<ul>
-    <li>Test 1</li>
-    <li>Test 2</li>
-  </ul>
+  <h1>Possible Master's projects</h1>
+	{% for tpc in site.mastersproject %}
+  <h2>{{ post.title }}</h2>
+
+	<div class="topic">
+  	{{ post.content }}
+	</div>
+	{% endfor %}
 </div><!-- /.blurb -->
