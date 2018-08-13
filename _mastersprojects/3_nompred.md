@@ -14,4 +14,6 @@ nominal	predicate.
 
 This project will seek to develop, combine, and	improve	new and	existing
 machine	learning models	of nominal predicate identification. The training
-and testing data come from existing large English text corpora.
+and testing data come from existing large English text corpora. This is part
+of an international collaboration with Prof. Vera Demberg at Saarland University,
+Germany.
