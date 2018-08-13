@@ -14,4 +14,5 @@ semantics may provide more explanatory power.
 This project involves applying recent machine learning techniques,
 particularly neural language modeling, to model effects of
 predictability over transcribed conversational text in existing
-collections (e.g. AMI Corpus).
+collections (e.g. AMI Corpus). This is part of an international collaboration
+with Prof. Vera Demberg at Saarland University, Germany.
