@@ -1,2 +1,4 @@
 name: Asad Sayeed
 markdown: kramdown
+collections:
+  mastersprojects:
